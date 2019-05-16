@@ -15,7 +15,7 @@ b;  Get starting block by the FAT and go through all --TODO--
     10 * 1024 + 1024 * 256 + 1024 * 256 * 256 + 1024 * 256 * 256 * 256 = 17,2GB
 
 ### 4
-a;  512 byte for a block is not sufficient since the maximum file-size would be 8.6GB
+a;  512 byte for a block is not sufficient since the maximum file-size would only be 1GB
 
     10 * 512 + 512 * 128 + 512 * 128 * 128 + 512 * 128 * 128 * 128 = 1082201088 byte = 1GB
 
