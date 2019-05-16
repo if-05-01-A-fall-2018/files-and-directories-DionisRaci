@@ -5,7 +5,7 @@ b;  262144000
 
 c;  One entry needs an Integer, which is 32 Bit big (4 Byte)
 
-d;  262144000 * 4 ~ 1GB
+d;  262144000 * 4 * 4 ~ 2GB
 
 ### 2
 b;  Get starting block by the FAT and go through all --TODO--
